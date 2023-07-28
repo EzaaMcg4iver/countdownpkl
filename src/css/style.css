@@ -16,8 +16,6 @@ body {
   background-color: var(--bg);
 }
 
-/* Media Query */
-
 /* Laptop */
 @media (max-width: 992px) {
   html {
